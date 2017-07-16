@@ -3,7 +3,7 @@ This repository has a free Ebook which will help you learn Angular step by step.
 
 # Technical support for this book
 
-If you need any technical help while completing a lab or step please log the issues at https://github.com/shivkoirala/LearnAngular/. 
+If you need any technical help while completing a lab or step please log issues at https://github.com/shivkoirala/LearnAngular/issues. 
 When you log a technical help, please mention the following: -
 
 •	Lab number and step number Where you face the problem.
