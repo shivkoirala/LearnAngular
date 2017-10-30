@@ -13,3 +13,7 @@ When you log a technical help, please mention the following: -
 # Learn Angular in 8 hours.
 
 Do support by watching our Learn Angular in 8 hours step by step video series https://www.youtube.com/watch?v=oMgvi-AV-eY 
+
+# Connect with me one to one
+
+I take Angular training every week in mumbai andheri , if you wish you can come to my training centre for any queries you have in this PDF http://stepbystepschools.net/ 
