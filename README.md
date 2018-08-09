@@ -14,7 +14,7 @@ When you log a technical help, please mention the following: -
 
 # Learn Angular in 8 hours.
 
-Do support by watching our Learn Angular in 8 hours step by step video series https://www.youtube.com/watch?v=oMgvi-AV-eY 
+Do watch our Learn Angular 6 tutorial  step by step video series https://www.youtube.com/watch?v=FV2MXOygDTM 
 
 # Connect with me one to one
 
